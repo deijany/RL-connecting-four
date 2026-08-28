@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Models / outputs
+*.zip
+*.pth
+models/
+outputs/
+logs/
+
+# OS
+.DS_Store
